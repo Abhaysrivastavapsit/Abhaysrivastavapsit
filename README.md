@@ -12,13 +12,13 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/tanmaygupta8503">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanmaygupta8503&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanmaygupta8503&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Abhaysrivastavapsit">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhaysrivastavapsit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhaysrivastavapsit&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaygupta8503&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaysrivastavapsit&theme=algolia" alt="GitHub Streak"/>
 </p>
 
 ## About Me
